@@ -1,0 +1,15 @@
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\bin\Debug\net6.0\Lab0_21_06.exe
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\bin\Debug\net6.0\Lab0_21_06.deps.json
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\bin\Debug\net6.0\Lab0_21_06.runtimeconfig.json
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\bin\Debug\net6.0\Lab0_21_06.dll
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\bin\Debug\net6.0\Lab0_21_06.pdb
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.csproj.AssemblyReference.cache
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.AssemblyInfoInputs.cache
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.AssemblyInfo.cs
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.csproj.CoreCompileInputs.cache
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.dll
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\refint\Lab0_21_06.dll
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.pdb
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\Lab0_21_06.genruntimeconfig.cache
+D:\Kallisto\GemsStudy\Lab0_21_06\Lab0_21_06\Lab0_21_06\obj\Debug\net6.0\ref\Lab0_21_06.dll
