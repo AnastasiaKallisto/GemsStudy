@@ -1,0 +1,15 @@
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\bin\Debug\net6.0\SpeedControlStation.exe
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\bin\Debug\net6.0\SpeedControlStation.deps.json
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\bin\Debug\net6.0\SpeedControlStation.runtimeconfig.json
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\bin\Debug\net6.0\SpeedControlStation.dll
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\bin\Debug\net6.0\SpeedControlStation.pdb
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.csproj.AssemblyReference.cache
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.AssemblyInfoInputs.cache
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.AssemblyInfo.cs
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.csproj.CoreCompileInputs.cache
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.dll
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\refint\SpeedControlStation.dll
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.pdb
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\SpeedControlStation.genruntimeconfig.cache
+D:\Kallisto\GemsStudy\Lab_3_Polymorphism\SpeedControlStation\SpeedControlStation\obj\Debug\net6.0\ref\SpeedControlStation.dll
